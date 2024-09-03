@@ -1,5 +1,6 @@
 # LeetCode-Solutions
 Welcome to my LeetCode solutions repository.
+
 This repository documents my coding journey as I continue to improve my problem-solving skills.
 
 My goal is to solve the first 150 questions in LeetCode, aiming to solve at least one question per day starting from September 1, 2024.
