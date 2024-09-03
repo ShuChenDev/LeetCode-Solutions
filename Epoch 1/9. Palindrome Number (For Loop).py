@@ -1,6 +1,6 @@
 """
 9/2/2024
-Compare beginning and end of input
+For Loop
 """
 
 class Solution(object):
