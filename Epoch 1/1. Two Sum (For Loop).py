@@ -1,6 +1,6 @@
 """
 9/1/2024
-Brute Force
+For Loop
 """
 
 class Solution(object):
