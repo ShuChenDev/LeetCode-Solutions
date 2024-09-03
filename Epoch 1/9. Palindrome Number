@@ -1,3 +1,7 @@
+"""
+9/2/2024
+Compare beginning and end of input
+"""
 
 class Solution(object):
     def isPalindrome(self, x):
