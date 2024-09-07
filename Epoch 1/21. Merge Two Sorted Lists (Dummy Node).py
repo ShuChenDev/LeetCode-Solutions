@@ -1,6 +1,6 @@
 """
 9/7/2024
-Dummy node
+Dummy Node
 """
 class Solution(object):
     def mergeTwoLists(self, list1, list2):
