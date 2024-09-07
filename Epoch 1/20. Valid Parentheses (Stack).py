@@ -1,6 +1,6 @@
 """
 9/7/2024
-stack
+Stack
 """
 class Solution(object):
     def isValid(self, s):
