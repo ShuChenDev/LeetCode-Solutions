@@ -1,6 +1,6 @@
 """
 9/7/2024
-For loop
+For Loop
 """
 class Solution(object):
     def removeDuplicates(self, nums):
