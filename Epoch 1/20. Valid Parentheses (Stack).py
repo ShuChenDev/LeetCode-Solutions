@@ -2,6 +2,7 @@
 9/7/2024
 Stack
 """
+
 class Solution(object):
     def isValid(self, s):
         x = len(s)
