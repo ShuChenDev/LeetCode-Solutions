@@ -2,6 +2,7 @@
 9/7/2024
 Dummy Node
 """
+
 class Solution(object):
     def mergeTwoLists(self, list1, list2):
         rtn = ListNode()
