@@ -1,6 +1,6 @@
 """
 9/21/2024
-self.stack
+Stack
 """
 
 class MyStack(object):
