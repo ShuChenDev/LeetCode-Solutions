@@ -12,6 +12,17 @@ A new language will be used for the next Epoch if I feel that I've reached a pla
 
 ## Epochs
 ### Epoch 1
-#### Python
-Start Date:  9/1/2024
-End Date:    
+Language:        Python
+Start Date:      9/1/2024
+End Date:        Progressing   
+Time used:       Progressing
+Problem Solved:  Progressing
+Question/Day:    Progressing
+
+### Epoch 2
+Language:        C++
+Start Date:      N/A
+End Date:        N/A   
+Time used:       N/A
+Problem Solved:  N/A
+Question/Day:    N/A
