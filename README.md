@@ -9,3 +9,9 @@ My goal is to solve the first 300 questions in LeetCode, aiming to solve at leas
 Throughout this journey, I will continuously refine my approach, adopting better methods as I progress.
 
 A new language will be used for the next Epoch if I feel that I've reached a plateau.
+
+## Epochs
+### Epoch 1
+#### Python
+Start Date:  9/1/2024
+End Date:    
