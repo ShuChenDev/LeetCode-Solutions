@@ -9,17 +9,17 @@ A new language will be used for the next Epoch if I feel that I've reached a pla
 
 ## Epochs
 ### Epoch 1
-- **Language:** Python
-- **Start Date:** 9/1/2024
-- **End Date:** Progressing   
-- **Time Used:** Progressing
-- **Problems Solved:** Progressing
-- **Questions/Day:** Progressing
+- **Language:**         Python
+- **Start Date:**       9/1/2024
+- **End Date:**         Progressing   
+- **Time Used:**        Progressing
+- **Problems Solved:**  Progressing
+- **Questions/Day:**    Progressing
 
 ### Epoch 2
-- **Language:** C++
-- **Start Date:** N/A
-- **End Date:** N/A   
-- **Time Used:** N/A
-- **Problems Solved:** N/A
-- **Questions/Day:** N/A
+- **Language:**         C++
+- **Start Date:**       N/A
+- **End Date:**         N/A   
+- **Time Used:**        N/A
+- **Problems Solved:**  N/A
+- **Questions/Day:**    N/A
