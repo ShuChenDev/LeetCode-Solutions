@@ -1,19 +1,13 @@
 """
 9/24/2024
-XOR
+Dictionary
 """
 
 class Solution(object):
     def isAnagram(self, s, t):
         if len(s) == len(t):
-            asc = 0
-            u = 0
             sMap = {}
             for i in range(len(s)):
-                u ^= ord(s[i])
-                u ^= ord(t[i])
-                asc += ord(s[i])
-                asc -= ord(t[i])
                 if s[i] in sMap:
                     sMap[s[i]] += 1
                 else:
@@ -25,9 +19,9 @@ class Solution(object):
                 else:
                     sMap[t[i]] -= 1
 
-            for i in range(len(t)):
-                if sMap[t[i]] != 0:
+            for i in range(len(s)):
+                if sMap[s[i]] != 0:
                     return False
 
-            return u == 0 and asc == 0
+            return True
         return False
