@@ -33,14 +33,21 @@ class Solution(object):
                 if l == len(pad[digits[3]]):
                     l = 0
                     k += 1
-
-            if len(digits) > 2 and (len(digits) <= 3 or l == 0):
+                    if k == len(pad[digits[2]]):
+                        k = 0
+                        j += 1
+                        if j == len(pad[digits[1]]):
+                            j = 0
+                            i += 1
+            elif len(digits) == 3 and (len(digits) <= 3 or l == 0):
                 k += 1
                 if k == len(pad[digits[2]]):
                     k = 0
                     j += 1
-
-            if len(digits) > 1 and (len(digits) <= 2 or (k == 0 and l == 0)):
+                    if j == len(pad[digits[1]]):
+                        j = 0
+                        i += 1
+            elif len(digits) == 2 and (len(digits) <= 2 or (k == 0 and l == 0)):
                 j += 1
                 if j == len(pad[digits[1]]):
                     j = 0
@@ -48,4 +55,5 @@ class Solution(object):
 
             if len(digits) == 1:
                 i += 1
+                
         return rtn
