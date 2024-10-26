@@ -1,0 +1,21 @@
+"""
+10/26/2024
+Recursion
+"""
+
+class Solution(object):
+    def isSymmetric(self, root):
+        def solve(l, r):
+            if not (l and r):
+                if l and not r or r and not l:
+                    return False
+                return True
+        
+            if l.val != r.val:
+                return False            
+    
+            return solve(l.left, r.right) and solve(l.right, r.left)
+            
+
+        return solve(root, root)
+        
