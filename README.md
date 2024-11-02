@@ -19,4 +19,4 @@ I will solve the problems in order of name and difficulty as I go through them f
   - **Easy:** 59
   - **Medium:** 25
   - **Hard:** 0
-- **Questions/Day:** Progressing
+- **Questions/Day:** 1.33
