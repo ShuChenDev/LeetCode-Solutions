@@ -19,4 +19,15 @@ I will solve the problems in order of name and difficulty as I go through them f
   - **Easy:** 59
   - **Medium:** 25
   - **Hard:** 0
-- **Questions/Day:** 1.33
+- **Questions/Day:** 1.33 Question/Day
+
+### Epoch 2
+- **Language:** C++
+- **Start Date:** November 3, 2024
+- **End Date:** TBD
+- **Time Used:** TBD
+- **Problems Solved:** TBD
+  - **Easy:** TBD
+  - **Medium:** TBD
+  - **Hard:** TBD
+- **Questions/Day:** TBD
