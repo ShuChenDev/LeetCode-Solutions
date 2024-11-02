@@ -15,7 +15,7 @@ I will solve the problems in order of name and difficulty as I go through them f
 - **End Date:**         11/2/2024   
 - **Time Used:**        63 Days
 - **Problems Solved:**  84
-- **---Easy:**  59
-- **---Medium:**  25
-- **---Hard:**  0
+**---Easy:**  59
+**---Medium:**  25
+**---Hard:**  0
 - **Questions/Day:**    Progressing
