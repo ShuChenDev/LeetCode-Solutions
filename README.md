@@ -12,7 +12,10 @@ I will solve the problems in order of name and difficulty as I go through them f
 ### Epoch 1
 - **Language:**         Python
 - **Start Date:**       9/1/2024
-- **End Date:**         Progressing   
-- **Time Used:**        Progressing
-- **Problems Solved:**  Progressing
+- **End Date:**         11/2/2024   
+- **Time Used:**        63 Days
+- **Problems Solved:**  84
+- **\t-Easy:**  59
+- **\t-Medium:**  25
+- **\t-Hard:**  0
 - **Questions/Day:**    Progressing
